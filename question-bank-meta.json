@@ -1,0 +1,27 @@
+{
+  "total_questions": 3000,
+  "skills": 1000,
+  "per_skill": 3,
+  "by_era": {
+    "I": 168,
+    "II": 291,
+    "III": 528,
+    "IV": 543,
+    "V": 648,
+    "VI": 603,
+    "VII": 219
+  },
+  "lab_prompts": 245,
+  "calculator": {
+    "never": 1917,
+    "allowed": 948,
+    "gdc": 135
+  },
+  "track_flavor": {
+    "neutral": 1000,
+    "UK": 1162,
+    "US": 522,
+    "IB": 316
+  },
+  "unique_prompts": 3000
+}
