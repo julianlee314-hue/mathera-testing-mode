@@ -162,5 +162,5 @@ Optional: add Pages under `math-history-101` at `/exam/` only if Julius prefers 
 - [x] `skills-qa-report.md`  
 - [x] `SHIP_TO_MATHERA.md`  
 - [x] Visual PDF(s)  
-- [ ] GitHub repo + Pages (in progress)  
+- [x] GitHub repo + Pages  
 
